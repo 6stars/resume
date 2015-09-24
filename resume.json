@@ -1,0 +1,255 @@
+{
+  "basics": {
+    "name": "Adam Moon",
+    "label": "Senior Software/Web Developer",
+    "email": "adamjmoon@gmail.com",
+    "phone": "(214) 600-3604",
+    "location": {
+      "address": "7621 Royal Lane",
+      "postalCode": "75230",
+      "city": "Dallas",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "adamjmoon",
+        "url": "https://github.com/adamjmoon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "One Technologies, L.P.",
+      "position": "Senior Software Engineer II",
+      "website": "https://onetechnologies.net",
+      "startDate": "2009-04-06",
+      "summary": "One Technologies is a credit monitoring service company offering such online products as NATIONAL CREDIT REPORT®, SCORESENSE®, and CREDIT CHECK PLUS™.",
+      "highlights": [
+        "Designed and developed Single Page Enrollment Platform for generating dynamic . Focus was ",
+        "Micro services",
+        "Angular Agent Portal",
+        "Angular Affiliate Management App",
+        "Multi Brand Single Page Customer Portal Application "
+      ]
+    },
+    {
+      "company": "Publishing Concepts, L.P.",
+      "position": "Software Developer",
+      "website": "https://www.publishingconcepts.com",
+      "startDate": "2007-09-01",
+      "endDate": "2009-04-01",
+      "summary": "Publishing Concepts provides college alumni print, website, and data services",
+      "highlights": [
+        "Supported and developed on a College Alumni Website product that supported Profile Updating, Alumni Search, Alumni Giving Processing, and Alumni Events Listing and Processing. Single-page site design with multiple .NET user controls. Ex: perunanet.net (SMU alumni site)",
+        "Helped upgrade and convert the Web Project from the .NET 1.1 Framework to the .NET 2.0/3.5 Framework.",
+        "Introduced and Implemented CruiseControl.NET to provide a Continuous Integration Solution for code builds to the Staging Environment. Utilized a combination of CruiseControl.NET built in tasks and NANT scripts to complete the build process.",
+        "Implemented multiple Single Sign-On solutions. Integrated .NET Forms Authentication with multiple SSO authentication protocols. Including LDAP, CAS, Shibboleth, Facebook Auth"
+      ]
+    },
+    {
+      "company": "Safety-Kleen Systems Inc.",
+      "position": "Software Developer",
+      "website": "https://www.safetykleen.com",
+      "startDate": "2007-02-01",
+      "endDate" : "2007-08-30",
+      "summary": "Publish Concepts provides college alumni print, website, and data services",
+      "highlights": [
+        "Developed Business Process Web Apps including a Pricing Visibility tool allowing managers of Safety-Kleen branches to search and update current pricing and discounts of all services"
+      ]
+    },
+    {
+      "company": "Crozier & Henderson Productions Inc.",
+      "position": "Software Developer",
+      "website": "https://www.hotonhomes.com",
+      "startDate": "2005-01-01",
+      "endDate": "2007-01-01",
+      "highlights": [
+        "ASP.NET Template-based website product marketed to homebuilders designed to support multiple builder websites using a shared source code and database.  Provided Administration Website to each builder for Content Management and Website Traffic Reporting.",
+        "Developed admin content management pages allowing for CRUD functionalities for builder data and media content",
+        "Prepared system for migration to new data center where apps were to be load balanced across three web servers"
+        ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southern Methodist University",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2001-08-15",
+      "endDate": "2004-12-15",
+      "gpa": "3.7"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "C#",
+        "Ruby",
+        "C++",
+        "F#",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Javascript Precompilers",
+      "keywords": [
+        "Coffeescript",
+        "ES6 with Babel"
+      ]
+    },
+    {
+      "name": "Javascript App Frameworks",
+      "keywords": [
+        "angular",
+        "durandal",
+        "meteor"
+      ]
+    },
+    {
+      "name": "Javascript Unit Testing",
+      "keywords": [
+        "frameworks: mocha, jest, jasmine",
+        "mock: sinon",
+        "bdd: chai",
+        "coverage: istanbul"
+      ]
+    },
+      {
+      "name": "CSS & HTML",
+      "keywords": [
+        "CSS3",
+        "LESS",
+        "Bootstrap",
+        "Google Material Design",
+        "Responsive/Mobile First Design",
+        "animation.css",
+        "Template Engines: jade | mustache"
+      ]
+    },
+    {
+      "name": "UI Automation Frameworks",
+      "keywords": [
+        "selenium",
+        "capybara",
+        "phantomjs",
+        "casperjs"
+      ]
+    },{
+      "name": "Javascript Frameworks",
+      "keywords": [
+        "require.js",
+        "almond.js",
+        "knockout.js",
+        "hammer.js",
+        "async.js",
+        "when.js"
+      ]
+    },
+    {
+      "name": "Build Tools",
+      "keywords": [
+        "nant",
+        "rake",
+        "grunt",
+        "gulp",
+        "jake",
+        "make"
+      ]
+    },{
+      "name": "Revision Control Systems",
+      "keywords": [
+        "CVS",
+        "subversion",
+        "git"
+      ]
+    },{
+      "name": "Continuous Integration Tools",
+      "keywords": [
+        "CruiseControl",
+        "TeamCity",
+        "Jenkins",
+        "Bamboo"
+      ]
+    },{
+      "name": "REST APIs",
+      "keywords": [
+        "ASP.NET Web API",
+        "NodeJS: Express, Sails.js"
+      ]
+    },
+    {
+      "name": "C# Unit Test",
+      "keywords": [
+        "nunit",
+        "nspec",
+        "Machine.Specifications",
+        "Moq",
+        "RhinoMocks"
+
+      ]
+    },
+    {
+      "name": "IOC and Dependency Injection",
+      "keywords": [
+        "Ninject",
+        "SimpleInjector",
+        "StructureMap",
+        "Siege.ServiceLocator"
+      ]
+    },
+    {
+      "name": "Database & ORMs  ",
+      "keywords": [
+        "TSQL",
+        "Stored Procs",
+        "SQL Server 2005,2008,2012",
+        "MongoDB",
+        "NHibernate",
+        "Entity Framework",
+        "Dapper"
+      ]
+    },
+    {
+      "name": "Package Managers",
+      "keywords": [
+        "nuget",
+        "npm",
+        "bower",
+        "RubyGems"
+      ]
+    }
+
+  ],
+  "interests": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "<a href='https://developer.apple.com/swift/'>swift</a>", "javascript ES6", "go"
+      ]
+    },
+    {
+      "name": "App Development",
+      "keywords": [
+        "iOS",
+        "meteor",
+        "angular 2.0"
+      ]
+    },
+    {
+      "name": "Web Component Frameworks",
+      "keywords": [
+        "React",
+        "Polymer"
+      ]
+    },
+    {
+      "name": "REST API Frameworks",
+      "keywords": [
+        "koa"
+      ]
+    }
+  ]
+}
