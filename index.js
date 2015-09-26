@@ -14,10 +14,11 @@ var resumeObject = JSON.parse(fs.readFileSync('resume.json', 'utf8'));
 resumeSchema.validate(resumeObject,function(report,err){
     console.log(report);
     var resumeObj = _.cloneDeep(resumeObject);
+    console.log(resumeObj.basics.name);
     login({"email": email, "password": password}, function (err, res) {
         session = res.res.body.session;
         publish(resumeObj, theme, email, password, guest, resumePassword, session, function (err, res) {
-            console.log(res);
+            console.log(res.res.body);
         });
     });
 

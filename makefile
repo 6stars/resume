@@ -1,5 +1,8 @@
 pub :  ;node ./index.js
 
-.PHONY: pub
+serve:  ;./node_modules/.bin/resume serve --theme moon
+
+
+.PHONY: pub serve
 
 

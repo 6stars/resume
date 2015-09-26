@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "ADAM MOON",
-    "label": "Software // Web Developer",
+    "label": "Software | Web Developer",
+    "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality.",
     "email": "adamjmoon@gmail.com",
     "picture": "",
-    "website": "http://www.hitchscript.com",
+    "website": "",
     "phone": "214-600-3604",
     "location": {
       "address": "7621 Royal Ln",
@@ -13,7 +14,6 @@
       "countryCode": "US",
       "region": "Texas"
     },
-    "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality.",
     "profiles": [
       {
         "network": "Twitter",
@@ -62,7 +62,7 @@
       "website": "www.safetykleen.com",
       "startDate": "2007-02-01",
       "endDate": "2007-08-30",
-      "summary": "Safety-Kleen provide environmental services to commercial, industrial and automotive customers",
+      "summary": "Safety-Kleen provide environmental services to the commercial & industrial industry",
       "highlights": [
         "Developed Business Process Web Apps including a Pricing Visibility tool allowing managers of Safety-Kleen branches to search and update current pricing and discounts of all services"
       ]
