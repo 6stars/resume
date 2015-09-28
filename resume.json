@@ -124,13 +124,14 @@
       ]
     },
     {
-      "name": "Javascript Unit Testing",
+      "name": "Javascript Unit Testing / Benchmarking",
       "keywords": [
         "frameworks: mocha, jest, jasmine",
         "mock: sinon",
         "bdd: chai",
         "coverage: istanbul",
-        "CI runner: karma"
+        "CI runner: karma",
+        "benchmarkjs"
       ]
     },
     {
