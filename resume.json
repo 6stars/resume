@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "ADAM MOON",
-    "label": "Software | Web Developer",
-    "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality.",
+    "label": "Full Stack Web Developer",
+    "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in .NET and node.js full stack development",
     "email": "adamjmoon@gmail.com",
     "picture": "",
     "website": "",
@@ -17,13 +17,18 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "hitchscript",
+        "username": "@hitchscript",
         "url": ""
       },
       {
         "network": "github",
         "username": "adamjmoon",
         "url": "http://github.com/adamjmoon"
+      },
+      {
+        "network": "codepen",
+        "username": "hitchscript",
+        "url": "http://codepen.com/hitchscript"
       }
     ]
   },
