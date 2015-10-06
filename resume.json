@@ -2,13 +2,10 @@
   "basics": {
     "name": "ADAM MOON",
     "label": "Full Stack Web Developer",
-    "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in .NET and node.js full stack development",
-    "email": "adamjmoon@gmail.com",
-    "picture": "",
-    "website": "",
+    "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in .NET and node.js full stack development.",
+    "email": "adammoon.career@gmail.com",
     "phone": "214-600-3604",
     "location": {
-      "address": "7621 Royal Ln",
       "postalCode": "75230",
       "city": "Dallas",
       "countryCode": "US",
@@ -17,7 +14,7 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "@hitchscript",
+        "username": "@jstestabul",
         "url": ""
       },
       {
@@ -112,17 +109,38 @@
       "name": "Javascript Precompilers",
       "keywords": [
         "Coffeescript",
+        "TypeScript",
         "ES6 with Babel"
       ]
     },
     {
-      "name": "Javascript App Frameworks",
+      "name": "Javascript App Development",
       "keywords": [
         "angular",
         "durandal",
         "meteor"
       ]
     },
+    {
+      "name": "Javascript Module Systems",
+      "keywords": [
+        "Asynchronous Module Definition (AMD) - require.js",
+        "CommonJS - Node.js, Browsify",
+        "ES6 or ECMAScript Module import",  
+        "System.js - supports AMD, UMD, ES6"
+      ]
+    },  
+    {
+      "name": "Javascript Frameworks",
+      "keywords": [
+        "knockout.js",
+        "backbone.js",  
+        "hammer.js",
+        "async.js",
+        "when.js",
+        "lodash.js"  
+      ]
+    },  
     {
       "name": "Javascript Unit Testing / Benchmarking",
       "keywords": [
@@ -155,16 +173,6 @@
         "capybara",
         "phantomjs",
         "casperjs"
-      ]
-    },
-    {
-      "name": "Javascript Frameworks",
-      "keywords": [
-        "require.js/almond.js",
-        "knockout.js",
-        "hammer.js",
-        "async.js",
-        "when.js"
       ]
     },
     {
@@ -238,6 +246,7 @@
       "keywords": [
         "nuget",
         "npm",
+        "atmosphere (meteor)",  
         "bower",
         "RubyGems"
       ]
