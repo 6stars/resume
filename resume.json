@@ -141,7 +141,8 @@
         "when.js",
         "lodash.js",
         "Immutable.js",
-        "RxJS"
+        "RxJS",
+        "d3"
       ]
     },  
     {
