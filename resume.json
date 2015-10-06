@@ -39,7 +39,7 @@
       "highlights": [
         "Designed and developed Single Page Enrollment Platform to enhance product enrollment experience while allowing full A to B testing. The design focus was small footprint, force js component modular testability, complete design flexibility, and easy path extensibility. Avoided large SPA framewoks to keep size down. Utilized knockout.js, async.js, when.js (promises), and require.js. For path optimization, Only one .css and one .js represented a path utilizing r.js (require.js optimizer). Each path optimization allowed for small footprint of less than 150k gzipped. Created serveral knockout custom bindings and compenents to keep ui component modularity and DOM manipulation separate from business logic. Platform replaced a VB.NET ASP.NET Forms App. I introduced direct automated path deployment to Akamai cdn to allow easy deployment of single path or project including multiple paths. I was passionate about replacing the previous system and most development was done in personal time. The platform is now being used for US products and all UK products.",
         "Implementated multiple ASP.NET Web APIs in effort to move to Microservice Architecture. Used SimpleInjector for Dependency Injection and Dapper for ORM / Stored Procedures",
-        "Full stack development on team that created a redesigned Angular 1.5 SPA Customer Care Portal replacing old .NET MVC app. Utilized Google Material Design for UI ook and feel, while implementing many fullstack features including Authentication, Role Management, Customer Care Call Managementm and Customer Offers and Cancellation.",
+        "Full stack development on team that created a redesigned Angular 1.5 SPA Customer Care Portal replacing old .NET MVC app. Utilized Google Material Design with the Angular Material directives for UI. Also implemented many fullstack features including Authentication, Role Management, Call Management and Customer Offers and Cancellation.",
         "Created Productivity Web App for saving, sharing, executing useful SQL Queries for any DB against any environment.  Created c# JSONTable Library for automatic dynamic mapping of muliple SQL Query results to a JSON format consumable by frontend for automatic HTML Table generation for Query results.  Outstanding performance considering no Type mapping to JSON. Allowed for better experience than SQL Server Management Studio.",
         "Created Productivity enhancer tool to allow a one command git repos synchronization and bootstrapping of all web app, business apis, and DBs. With a microserivce architechture, you have several git repos for individual JSON Business APIs which can be a to keep in sync with latest code. Utilized node async.js npm module to allow easy parallel processing of each Project repos .NET Compilation, DB Creation, Web and Service startup.  The dev environment bootstrapping only took as long as the longest individual task. Very freeing result and experience."
       ]
@@ -125,7 +125,7 @@
       "name": "Javascript Module Systems",
       "keywords": [
         "Asynchronous Module Definition (AMD) - require.js",
-        "CommonJS - Node.js, Browsify",
+        "CommonJS - Node.js, Browserify",
         "ES6 or ECMAScript Module import",  
         "System.js - supports AMD, UMD, ES6"
       ]
@@ -199,7 +199,7 @@
       "keywords": [
         "CruiseControl",
         "TeamCity",
-        "Jenkins",
+        "Travis",
         "Bamboo"
       ]
     },
