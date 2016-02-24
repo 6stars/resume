@@ -140,6 +140,7 @@
         "async.js",
         "when.js",
         "lodash.js",
+        "react.js",
         "Immutable.js",
         "RxJS",
         "d3"
@@ -249,7 +250,9 @@
       "name": "Package Managers",
       "keywords": [
         "nuget",
+        "webpack"
         "npm",
+        "jspm",
         "atmosphere (meteor)",  
         "bower",
         "RubyGems"
@@ -277,7 +280,8 @@
       "name": "App Development",
       "keywords": [
         "iOS",
-        "meteor"
+        "meteor",
+        "React native"
       ]
     },
     {
@@ -290,8 +294,8 @@
     {
       "name": "Javascript App Architecture",
       "keywords": [
-        "flux",
-        "ImmutableJS",
+        "redux",
+        "elm",
         "angular 2.0"
       ]
     },
