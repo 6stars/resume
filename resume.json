@@ -3,7 +3,7 @@
     {
     "name": "ADAM MOON",
     "label": "Full Stack Developer",
-    "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in .NET and node.js full stack development.",
+    "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in .NET and node.js full stack development.",
     "email": "adammoon.career@gmail.com",
     "phone": "214-600-3604",
     "location": {
@@ -154,6 +154,7 @@
         "async.js",
         "when.js",
         "lodash.js",
+        "react.js",
         "Immutable.js",
         "RxJS",
         "d3"
@@ -213,7 +214,8 @@
         "CruiseControl",
         "TeamCity",
         "Travis",
-        "Bamboo"
+        "Bamboo",
+        "Jenkins"
       ]
     },
     {
@@ -239,7 +241,7 @@
         "Ninject",
         "SimpleInjector",
         "StructureMap",
-        "Siege.ServiceLocator"
+        "Autofac"
       ]
     },
     {
@@ -258,8 +260,8 @@
       "name": "Package Managers",
       "keywords": [
         "nuget",
+        "webpack",
         "npm",
-        "atmosphere (meteor)",
         "bower",
         "RubyGems"
       ]
@@ -324,8 +326,10 @@
     {
       "name": "Javascript Unit Test Frameworks",
       "keywords": [
-        "mocha with co, sinon & chai",
-        "ava"
+        "mocha, sinon & chai",
+        "ava",
+        "jest",
+        "jasmine"
       ]
     },
     {

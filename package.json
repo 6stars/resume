@@ -24,5 +24,10 @@
   },
   "dependencies": {
     "resume-schema": "0.0.16"
+  },
+  "scripts": {
+    "pdf" : "resume export --format pdf --theme flat",
+    "test" : "resume test",
+    "serve" : "resume serve"
   }
 }
