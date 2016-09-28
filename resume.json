@@ -1,7 +1,8 @@
 {
-  "basics": {
+  "basics":
+    {
     "name": "ADAM MOON",
-    "label": "Full Stack Web Developer",
+    "label": "Full Stack Developer",
     "summary": "I am a full stack web developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in .NET and node.js full stack development.",
     "email": "adammoon.career@gmail.com",
     "phone": "214-600-3604",
@@ -24,12 +25,25 @@
       },
       {
         "network": "codepen",
-        "username": "hitchscript",
-        "url": "http://codepen.com/hitchscript"
+        "username": "cmpunk",
+        "url": "https://codepen.io/cmpunk/"
       }
     ]
   },
   "work": [
+    {
+      "company": "defi SOLUTIONS Inc",
+      "position": "Senior Software Engineer",
+      "website": "http://defisolutions.com",
+      "startDate": "2015-11-03",
+      "summary": "defi SOLUTIONS provides flexible loan origination system for auto lenders.",
+      "highlights": [
+        "developed several pages using angular, scss, babel & es2015",
+        "implemented a proper js/css build system with gulp",
+        "introduced the use of scss, flexbox, material design, mocha and karma for unit testing, babel for es2015, eslint",
+        "currently working and rearchitecting core app to allow independent js/css/img deployment, and new implementation with react with redux and redux-sagas, react material-ui, and webpack"
+        ]
+    },
     {
       "company": "One Technologies, L.P.",
       "position": "Senior Software Engineer II, Lead Web Developer",
@@ -37,7 +51,7 @@
       "startDate": "2009-04-06",
       "summary": "One Technologies is a credit monitoring service company offering such online products as NATIONALCREDITREPORT.com, SCORESENSE.com, and CREDITCHECKPLUS.CO.UK",
       "highlights": [
-        "Designed and developed Single Page Enrollment Platform to enhance product enrollment experience while allowing full A to B testing. The design focus was small footprint, force js component modular testability, complete design flexibility, and easy path extensibility. Avoided large SPA framewoks to keep size down. Utilized knockout.js, async.js, when.js (promises), and require.js. For path optimization, Only one .css and one .js represented a path utilizing r.js (require.js optimizer). Each path optimization allowed for small footprint of less than 150k gzipped. Created serveral knockout custom bindings and compenents to keep ui component modularity and DOM manipulation separate from business logic. Platform replaced a VB.NET ASP.NET Forms App. I introduced direct automated path deployment to Akamai cdn to allow easy deployment of single path or project including multiple paths. I was passionate about replacing the previous system and most development was done in personal time. The platform is now being used for US products and all UK products.",
+        "Designed and developed Single Page Enrollment Platform to enhance product enrollment experience while allowing full A to B testing. The design focus was small footprint, force js component modular testability, complete design flexibility, and easy path extensibility. Avoided large SPA framewoks to keep size down. Utilized knockout.js, async.js, when.js (promises), and require.js. For path optimization, Only one .css and one .js represented a path utilizing r.js (require.js optimizer). Each path optimization allowed for small footprint of less than 150k gzipped. Created serveral knockout custom bindings and compenents to keep ui component modularity and DOM manipulation separate from business logic. Platform replaced a VB.NET ASP.NET Forms App. I introduced direct automated path deployment to Akamai cdn to allow easy deployment of single path or project including multiple paths.",
         "Implementated multiple ASP.NET Web APIs in effort to move to Microservice Architecture. Used SimpleInjector for Dependency Injection and Dapper for ORM / Stored Procedures",
         "Helped develop Single Page Product Portal converting from .NET MVC Web App.  Designed to support easy brand extension and flexibility.",
         "Full stack development on team that created a redesigned Angular 1.4 SPA Customer Care Portal replacing old .NET MVC app. Utilized Google Material Design with the Angular Material directives for UI. Also implemented many fullstack features including Authentication, Role Management, Call Management and Customer Offers and Cancellation.",
@@ -125,17 +139,17 @@
     {
       "name": "Javascript Module Systems",
       "keywords": [
-        "Asynchronous Module Definition (AMD) - require.js",
+        "AMD - require.js",
         "CommonJS - Node.js, Browserify",
-        "ES6 or ECMAScript Module import",  
+        "ES6 or ECMAScript Module import",
         "System.js - supports AMD, UMD, ES6"
       ]
-    },  
+    },
     {
       "name": "Javascript Frameworks",
       "keywords": [
         "knockout.js",
-        "backbone.js",  
+        "backbone.js",
         "hammer.js",
         "async.js",
         "when.js",
@@ -144,7 +158,7 @@
         "RxJS",
         "d3"
       ]
-    },  
+    },
     {
       "name": "Javascript Unit Testing / Benchmarking",
       "keywords": [
@@ -159,14 +173,9 @@
     {
       "name": "CSS & HTML",
       "keywords": [
-        "CSS3",
-        "LESS",
-        "Bootstrap",
-        "Google Material Design",
-        "Angular Material",
-        "material-design-light",
-        "Responsive/Mobile First Design",
-        "animation.css",
+        "css3",
+        "less",
+        "scss",
         "Template Engines: jade, mustache"
       ]
     },
@@ -250,11 +259,17 @@
       "keywords": [
         "nuget",
         "npm",
-        "atmosphere (meteor)",  
+        "atmosphere (meteor)",
         "bower",
         "RubyGems"
       ]
     }
+  ],
+  "languages": [
+
+  ],
+  "publications": [
+
   ],
   "awards" : [
 
@@ -269,30 +284,48 @@
     {
       "name": "Languages",
       "keywords": [
-        "swift",
-        "javascript ES6"
+        "elm",
+        "JS ES201*",
+        "go",
+        "c# 6"
+      ]
+    },
+    {
+      "name": "Web Component Library",
+      "keywords": [
+        "angular-material",
+        "material-ui",
+        "material-design-light",
+        "materialize"
       ]
     },
     {
       "name": "App Development",
       "keywords": [
         "iOS",
-        "meteor"
+        "react-native"
       ]
     },
     {
       "name": "Web Component Frameworks",
       "keywords": [
         "React",
-        "Polymer"
+        "Angular 2"
       ]
     },
     {
       "name": "Javascript App Architecture",
       "keywords": [
-        "flux",
-        "ImmutableJS",
-        "angular 2.0"
+        "redux",
+        "redux-sagas",
+        "ImmutableJS"
+      ]
+    },
+    {
+      "name": "Javascript Unit Test Frameworks",
+      "keywords": [
+        "mocha with co, sinon & chai",
+        "ava"
       ]
     },
     {
@@ -303,10 +336,15 @@
       ]
     },
     {
-      "name": "REST API Frameworks",
+      "name": "Focus",
       "keywords": [
-        "koa"
+        ".NET Core 1.0",
+        "Node.js V6",
+        "Isomorphic Apps",
+        "redux",
+        "redux-sagas"
       ]
     }
+
   ]
 }

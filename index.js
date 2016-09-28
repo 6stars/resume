@@ -1,6 +1,6 @@
-var theme = 'moon';
-var email = '@EMAIL@';
-var password = '@PASSWORD@';
+var theme = 'material';
+var email = 'adammoon.career@gmail.com';
+var password = 'moon1341';
 var _ = require('lodash');
 var guest = false;
 var resumePassword = false;
@@ -23,5 +23,3 @@ resumeSchema.validate(resumeObject,function(report,err){
     });
 
 });
-
-

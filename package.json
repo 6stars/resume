@@ -20,7 +20,7 @@
   "homepage": "https://github.com/adamjmoon/resume",
   "devDependencies": {
     "lodash": "^3.10.1",
-    "resume-cli": "^0.4.8"
+    "resume-cli": "^0.4.13"
   },
   "dependencies": {
     "resume-schema": "0.0.16"
