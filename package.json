@@ -18,16 +18,15 @@
     "url": "https://github.com/adamjmoon/resume/issues"
   },
   "homepage": "https://github.com/adamjmoon/resume",
-  "devDependencies": {
-    "lodash": "^3.10.1",
-    "resume-cli": "^0.4.13"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "resume-schema": "0.0.16"
+    "jest": "24.9.0",
+    "resume-cli": "1.2.7",
+    "resume-schema": "0.0.18"
   },
   "scripts": {
-    "pdf" : "resume export --format pdf --theme flat",
-    "test" : "resume test",
-    "serve" : "resume serve"
+    "pdf": "resume export --format pdf --theme flat",
+    "test": "resume test",
+    "serve": "resume serve"
   }
 }

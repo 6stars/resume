@@ -1,13 +1,12 @@
 {
-  "basics":
-    {
+  "meta": { "theme": "elegant" },
+  "basics": {
     "name": "ADAM MOON",
-    "label": "Full Stack Developer",
-    "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in .NET and node.js full stack development.",
-    "email": "adammoon.career@gmail.com",
+    "label": "Sr Full Stack Developer",
+    "summary": "I specialize in the architecture and creation of continuously deployed scalable Full Stack Solutions on the AWS Cloud Platform. Strong focus on a Containerized Microservice REST and GRAPHQL Apis, React JS Progressive Web Apps and React Native Mobile Apps. DB Specialties include MSSQL Server, PostgreSQL, DynamoDB, and Redis",
+    "email": "adam@amoon.space",
     "phone": "214-600-3604",
     "location": {
-      "postalCode": "75230",
       "city": "Dallas",
       "countryCode": "US",
       "region": "Texas"
@@ -24,30 +23,35 @@
         "url": "http://github.com/adamjmoon"
       },
       {
-        "network": "codepen",
-        "username": "cmpunk",
-        "url": "https://codepen.io/cmpunk/"
+        "network": "github",
+        "username": "6stars",
+        "url": "http://github.com/6stars"
+      },
+      {
+        "network": "codesandbox",
+        "username": "6stars",
+        "url": "http://github.com/6stars"
       }
     ]
   },
   "work": [
     {
       "company": "defi SOLUTIONS Inc",
-      "position": "Senior Software Engineer",
-      "website": "http://defisolutions.com",
+      "position": "Lead Senior Software Engineer",
+      "website": "https://defisolutions.com",
       "startDate": "2015-11-03",
       "summary": "defi SOLUTIONS provides flexible loan origination system for auto lenders.",
       "highlights": [
         "developed several pages using angular, scss, babel & es2015",
         "implemented a proper js/css build system with gulp",
         "introduced the use of scss, flexbox, material design, mocha and karma for unit testing, babel for es2015, eslint",
-        "currently working and rearchitecting core app to allow independent js/css/img deployment, and new implementation with react with redux and redux-sagas, react material-ui, and webpack"
-        ]
+        "rearchitecting core app to allow independent js/css/img deployment, and new implementation with react with redux and redux-sagas, react material-ui, and webpack"
+      ]
     },
     {
       "company": "One Technologies, L.P.",
       "position": "Senior Software Engineer II, Lead Web Developer",
-      "website": "http://onetechnologies.net",
+      "website": "https://onetechnologies.net",
       "startDate": "2009-04-06",
       "summary": "One Technologies is a credit monitoring service company offering such online products as NATIONALCREDITREPORT.com, SCORESENSE.com, and CREDITCHECKPLUS.CO.UK",
       "highlights": [
@@ -112,29 +116,15 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [
-        "C#",
-        "Ruby",
-        "C++",
-        "F#",
-        "Javascript"
-      ]
+      "keywords": ["C#", "Ruby", "C++", "F#", "Javascript"]
     },
     {
       "name": "Javascript Precompilers",
-      "keywords": [
-        "Coffeescript",
-        "TypeScript",
-        "ES6 with Babel"
-      ]
+      "keywords": ["Coffeescript", "TypeScript", "ES6 with Babel"]
     },
     {
       "name": "Javascript App Development",
-      "keywords": [
-        "angular",
-        "durandal",
-        "meteor"
-      ]
+      "keywords": ["angular", "durandal", "meteor"]
     },
     {
       "name": "Javascript Module Systems",
@@ -173,57 +163,27 @@
     },
     {
       "name": "CSS & HTML",
-      "keywords": [
-        "css3",
-        "less",
-        "scss",
-        "Template Engines: jade, mustache"
-      ]
+      "keywords": ["css3", "less", "scss", "Template Engines: jade, mustache"]
     },
     {
       "name": "UI Automation Frameworks",
-      "keywords": [
-        "selenium",
-        "capybara",
-        "phantomjs",
-        "casperjs"
-      ]
+      "keywords": ["selenium", "capybara", "phantomjs", "casperjs"]
     },
     {
       "name": "Build Tools",
-      "keywords": [
-        "nant",
-        "rake",
-        "grunt",
-        "gulp",
-        "jake",
-        "make"
-      ]
+      "keywords": ["nant", "rake", "grunt", "gulp", "jake", "make"]
     },
     {
       "name": "Revision Control Systems",
-      "keywords": [
-        "CVS",
-        "subversion",
-        "git"
-      ]
+      "keywords": ["CVS", "subversion", "git"]
     },
     {
       "name": "Continuous Integration Tools",
-      "keywords": [
-        "CruiseControl",
-        "TeamCity",
-        "Travis",
-        "Bamboo",
-        "Jenkins"
-      ]
+      "keywords": ["CruiseControl", "TeamCity", "Travis", "Bamboo", "Jenkins"]
     },
     {
       "name": "REST APIs",
-      "keywords": [
-        "ASP.NET Web API",
-        "NodeJS: Express, Sails.js"
-      ]
+      "keywords": ["ASP.NET Web API", "NodeJS: Express, Sails.js"]
     },
     {
       "name": "C# Unit Test",
@@ -237,12 +197,7 @@
     },
     {
       "name": "IOC and Dependency Injection",
-      "keywords": [
-        "Ninject",
-        "SimpleInjector",
-        "StructureMap",
-        "Autofac"
-      ]
+      "keywords": ["Ninject", "SimpleInjector", "StructureMap", "Autofac"]
     },
     {
       "name": "Database & ORMs",
@@ -258,39 +213,18 @@
     },
     {
       "name": "Package Managers",
-      "keywords": [
-        "nuget",
-        "webpack",
-        "npm",
-        "bower",
-        "RubyGems"
-      ]
+      "keywords": ["nuget", "webpack", "npm", "bower", "RubyGems"]
     }
   ],
-  "languages": [
-
-  ],
-  "publications": [
-
-  ],
-  "awards" : [
-
-  ],
-  "references" : [
-
-  ],
-  "volunteer" : [
-
-  ],
+  "languages": [],
+  "publications": [],
+  "awards": [],
+  "references": [],
+  "volunteer": [],
   "interests": [
     {
       "name": "Languages",
-      "keywords": [
-        "elm",
-        "JS ES201*",
-        "go",
-        "c# 6"
-      ]
+      "keywords": ["elm", "JS ES201*", "go", "c# 6"]
     },
     {
       "name": "Web Component Library",
@@ -303,41 +237,23 @@
     },
     {
       "name": "App Development",
-      "keywords": [
-        "iOS",
-        "react-native"
-      ]
+      "keywords": ["iOS", "react-native"]
     },
     {
       "name": "Web Component Frameworks",
-      "keywords": [
-        "React",
-        "Angular 2"
-      ]
+      "keywords": ["React", "Angular 2"]
     },
     {
       "name": "Javascript App Architecture",
-      "keywords": [
-        "redux",
-        "redux-sagas",
-        "ImmutableJS"
-      ]
+      "keywords": ["redux", "redux-sagas", "ImmutableJS"]
     },
     {
       "name": "Javascript Unit Test Frameworks",
-      "keywords": [
-        "mocha, sinon & chai",
-        "ava",
-        "jest",
-        "jasmine"
-      ]
+      "keywords": ["mocha, sinon & chai", "ava", "jest", "jasmine"]
     },
     {
       "name": "Javascript Benchmarking",
-      "keywords": [
-        "benchmarkjs",
-        "itchcork"
-      ]
+      "keywords": ["benchmarkjs", "itchcork"]
     },
     {
       "name": "Focus",
@@ -349,6 +265,5 @@
         "redux-sagas"
       ]
     }
-
   ]
 }
