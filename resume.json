@@ -1,5 +1,5 @@
 {
-  "meta": { "theme": "elegant" },
+  "meta": { "theme": "kendall" },
   "basics": {
     "name": "ADAM MOON",
     "label": "Sr Full Stack Developer",
@@ -115,101 +115,27 @@
   "languages": [],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": ["C#", "Ruby", "C++", "F#", "Javascript"]
-    },
-    {
-      "name": "Javascript Precompilers",
-      "keywords": ["Coffeescript", "TypeScript", "ES6 with Babel"]
-    },
-    {
-      "name": "Javascript App Development",
-      "keywords": ["angular", "durandal", "meteor"]
-    },
-    {
-      "name": "Javascript Module Systems",
-      "keywords": [
-        "AMD - require.js",
-        "CommonJS - Node.js, Browserify",
-        "ES6 or ECMAScript Module import",
-        "System.js - supports AMD, UMD, ES6"
-      ]
-    },
-    {
-      "name": "Javascript Frameworks",
-      "keywords": [
-        "knockout.js",
-        "backbone.js",
-        "hammer.js",
-        "async.js",
-        "when.js",
-        "lodash.js",
-        "react.js",
-        "Immutable.js",
-        "RxJS",
-        "d3"
-      ]
-    },
-    {
-      "name": "Javascript Unit Testing / Benchmarking",
-      "keywords": [
-        "frameworks: mocha, jest, jasmine",
-        "mock: sinon",
-        "bdd: chai",
-        "coverage: istanbul",
-        "CI runner: karma",
-        "benchmarkjs"
-      ]
-    },
-    {
-      "name": "CSS & HTML",
-      "keywords": ["css3", "less", "scss", "Template Engines: jade, mustache"]
-    },
-    {
-      "name": "UI Automation Frameworks",
-      "keywords": ["selenium", "capybara", "phantomjs", "casperjs"]
-    },
-    {
-      "name": "Build Tools",
-      "keywords": ["nant", "rake", "grunt", "gulp", "jake", "make"]
-    },
-    {
-      "name": "Revision Control Systems",
-      "keywords": ["CVS", "subversion", "git"]
+      "name": "CSS in JS",
+      "keywords": ["styled-components", "jss", "emotion"]
     },
     {
       "name": "Continuous Integration Tools",
-      "keywords": ["CruiseControl", "TeamCity", "Travis", "Bamboo", "Jenkins"]
-    },
-    {
-      "name": "REST APIs",
-      "keywords": ["ASP.NET Web API", "NodeJS: Express, Sails.js"]
+      "keywords": [
+        "TeamCity",
+        "Appveyor",
+        "Travis",
+        "Jenkins",
+        "Circle CI",
+        "Semaphore CI"
+      ]
     },
     {
       "name": "C# Unit Test",
-      "keywords": [
-        "nunit",
-        "nspec",
-        "Machine.Specifications",
-        "Moq",
-        "RhinoMocks"
-      ]
+      "keywords": ["xunit", "Moq"]
     },
     {
-      "name": "IOC and Dependency Injection",
-      "keywords": ["Ninject", "SimpleInjector", "StructureMap", "Autofac"]
-    },
-    {
-      "name": "Database & ORMs",
-      "keywords": [
-        "TSQL",
-        "Stored Procs",
-        "SQL Server 2005,2008,2012",
-        "MongoDB",
-        "NHibernate",
-        "Entity Framework",
-        "Dapper"
-      ]
+      "name": "Database",
+      "keywords": ["TSQL", "MS SQL Server", "MongoDB", "Redis", "DynamoDB"]
     },
     {
       "name": "Package Managers",
@@ -224,45 +150,48 @@
   "interests": [
     {
       "name": "Languages",
-      "keywords": ["elm", "JS ES201*", "go", "c# 6"]
+      "keywords": [
+        "c#",
+        "c++",
+        "go",
+        "python",
+        "Reason ML",
+        "Typescript",
+        "JS ES201*"
+      ]
     },
     {
-      "name": "Web Component Library",
+      "name": "React",
       "keywords": [
-        "angular-material",
+        "react-router",
         "material-ui",
-        "material-design-light",
-        "materialize"
+        "react-redux",
+        "redux-sagas",
+        "redux-form",
+        "react-final-form",
+        "react-table",
+        "react-virtualized",
+        "react-motion",
+        "Immutable.js"
       ]
     },
     {
       "name": "App Development",
-      "keywords": ["iOS", "react-native"]
+      "keywords": ["iOS", "React Native"]
     },
     {
-      "name": "Web Component Frameworks",
-      "keywords": ["React", "Angular 2"]
-    },
-    {
-      "name": "Javascript App Architecture",
-      "keywords": ["redux", "redux-sagas", "ImmutableJS"]
-    },
-    {
-      "name": "Javascript Unit Test Frameworks",
-      "keywords": ["mocha, sinon & chai", "ava", "jest", "jasmine"]
-    },
-    {
-      "name": "Javascript Benchmarking",
-      "keywords": ["benchmarkjs", "itchcork"]
+      "name": "Javascript Unit, Component, and E2E Integratoin Test Frameworks",
+      "keywords": ["jest", "puppeteer", "cypress"]
     },
     {
       "name": "Focus",
       "keywords": [
-        ".NET Core 1.0",
-        "Node.js V6",
-        "Isomorphic Apps",
-        "redux",
-        "redux-sagas"
+        "ASPNET Core",
+        "React",
+        "NextJS",
+        "React Native",
+        "Progressive Web Apps",
+        "Gatsby"
       ]
     }
   ]
